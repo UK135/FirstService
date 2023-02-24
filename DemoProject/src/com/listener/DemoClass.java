@@ -8,7 +8,7 @@ public class DemoClass {
 
 		System.out.println(sum);
 		System.out.println(sum);
-		System.out.println(sum);
+	
 	}
 	
 	
